@@ -33,7 +33,7 @@ Save the provided Python script as `setup_database.py` and run it to initialize 
 Run the script using Python:
 
 ```bash
-python setup_database.py
+python DB_setup.py
 ```
 
 Ensure you have MySQL running and accessible with the credentials provided in the script (host, user, password).
