@@ -56,7 +56,7 @@ Place the project files in the web server’s root directory (e.g., htdocs for X
 Open your web browser and navigate to:
 
 ```bash
-http://localhost/course-report/index.html
+http://localhost/course.html
 ```
 
 ## Usage
